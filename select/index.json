@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "鉄壁",
+  "base_artist": "Queen Bee",
+  "createdAt": "2026-03-27T03:19:56.764717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鉄壁",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/01_鉄壁_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鉄壁 - Teppeki",
+      "artist": "Queen Bee",
+      "has_synced": true,
+      "path": "select/02_鉄壁_-_Teppeki_Queen_Bee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鉄壁",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/03_鉄壁_女王蜂.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鉄壁",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_01_鉄壁_女王蜂.txt"
+    }
+  ]
+}
